@@ -8,6 +8,11 @@
 ### log ###
 logs/
 *.log
+*.log.wf
+
+log/
+*.log
+*.log.wf
 
 *.iws
 *.iml
