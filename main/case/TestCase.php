@@ -1,14 +1,14 @@
 <?php
 /***************************************************************************
  *
- * Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved
+ * Copyright (c) 2015  Inc. All Rights Reserved
  *
  **************************************************************************/
 
 /**
  * @file Testcase.php
  * @date 2015/06/30
- * @author chenguang02@baidu.com
+ * @author sunnnychan@gmail.com
  * @brief
  *
  **/
