@@ -24261,3 +24261,14 @@ TRACE: 04-12 14:38:21: sunnytest: [ logid:1460443101_1035 ]  start mockers.
 DEBUG: 04-12 14:38:21: sunnytest: [ logid:1460443101_1035 ]  [/home/users/chenguang02/sunny/pro_test/sunnytest/main/mock/Mocker.php:55] http mocker starting listen
 TRACE: 04-12 14:38:21: sunnytest: [ logid:1460443101_1035 ]  mocker:http mocker start successfully.
 NOTICE: 04-12 14:38:21: sunnytest: [ logid:1460443101_1035 ]  start test frame successfully. After running cases, please check test module log for result.
+NOTICE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  begin to init start test frame.
+TRACE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  parse arguments.
+TRACE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  this time, will run these cases :Array
+(
+    [0] => cases/TestExp.case.php
+)
+
+TRACE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  start mockers.
+DEBUG: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  [/Users/didi/WorkPlace/sunny/sunnytest/hikari-test/main/mock/Mocker.php:55] http mocker starting listen
+TRACE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  mocker:http mocker start successfully.
+NOTICE: 10-07 08:09:39: sunnytest: [ logid:1538899779_39719 ]  start test frame successfully. After running cases, please check test module log for result.
